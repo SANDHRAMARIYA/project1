@@ -25,7 +25,7 @@ export class ViewpassengerComponent implements OnInit {
 
 
 
-  passengerData:any=[]
+  passengerData:any={}
   
   ngOnInit(): void {
   }
